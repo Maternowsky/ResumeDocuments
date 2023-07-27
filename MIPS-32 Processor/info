@@ -1,1 +1,10 @@
-MIPS-32 Single Cycle Processor in VHDL
+MIPS-32 Single Cycle Processor - Computer Architecture Project
+---------------------------------------------------------------
+
+Coded in VHDL on Nexys 4 FPGA board
+
+lab 9 document has the decode module
+
+lab 10 document has the execute, control, and memory modules
+
+coded by Mat Maternowsky and Lingbo Meng
